@@ -17,4 +17,4 @@ jobs:
       uses: astronomer/deploy-action@v0.3
       with:
         action: create-deployment-preview
-        deployment-id: cli235ha969559lyxh3fdchwxr
+        deployment-id: clkr7oka21222177bz2w97l04crt
